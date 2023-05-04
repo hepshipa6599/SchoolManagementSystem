@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Trainee
+ *
+ */
+module School {
+}
